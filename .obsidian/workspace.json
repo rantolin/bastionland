@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "f864befc621290fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf6aa30b6543fc19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7148a6287b43412d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mythic Bastionland.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mythic Bastionland"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6519a1ebadb22356",
+    "type": "split",
+    "children": [
+      {
+        "id": "e59d9f7754c34612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ee3d2a81d84d95d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "910d7462877bb740",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f765dbf4519478f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dce26e504d54b6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e10b5de4d1084d41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "614de6ec1c452b05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "18e88d50dfc3399f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mythic Bastionland.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Mythic Bastionland"
+            }
+          },
+          {
+            "id": "469ed67af415fd20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "84b95477907f76a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "7148a6287b43412d",
+  "lastOpenFiles": [
+    "Sesiones/Sesión 0.md",
+    "Sesiones/Sesión 2.md",
+    "Sesiones/Sesión 1.md",
+    "Mythic Bastionland.md",
+    "GEMINI.md",
+    "Mitos",
+    "Mitos.md",
+    "Sesiones/Sesión 5.md",
+    "Sesiones/Sesión 4.md",
+    "Sesiones/Sesión 3.md",
+    "PNJs/Bohumir.md",
+    "Personajes/Ser Tanneth (Pearl Knight).md",
+    "Personajes/Ser Morcant the Gloomy (Chain Knight).md",
+    "Personajes/Ser Ludovico, the Caring (Temple Knight).md",
+    "Bienvenido.md",
+    "Lugares/El Encierro de Maquenda.md",
+    "Sesiones",
+    "PNJs/Maese Ogham.md",
+    "Lugares/Castillo de Cosnice.md",
+    "Lugares",
+    "Caballeros/Ser Howel, The Bone Knight.md",
+    "Caballeros/The Dusk Knight.md",
+    "Caballeros/The Bone Knight.md",
+    "Caballeros/The Trail Knight.md",
+    "Caballeros/Caballero de la Paloma.md",
+    "PNJs/Catfold, el Lavador.md",
+    "PNJs/La lente.md",
+    "PNJs",
+    "Personajes/Ser Garnish de Blyth (Amber Knight).md",
+    "Caballeros",
+    "Personajes",
+    "Caballeros/The Chain Knight.md"
+  ]
+}
