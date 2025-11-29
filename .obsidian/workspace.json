@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6aa30b6543fc19",
+        "id": "27c99c0a36f3b50d",
         "type": "tabs",
         "children": [
           {
-            "id": "7148a6287b43412d",
+            "id": "facfe38ad1ef9e01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugares/El Encierro de Maquenda.md",
+                "file": "Sesiones/Sesión 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El Encierro de Maquenda"
+              "title": "Sesión 2"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Sesion.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Sesion"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugares/El Encierro de Maquenda.md",
+                "file": "Templates/Sesion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de El Encierro de Maquenda"
+              "title": "Enlaces salientes de Sesion"
             }
           },
           {
@@ -141,16 +142,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Sesion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Sesion"
+            }
+          },
+          {
+            "id": "848569307bd0fb5e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,42 +176,44 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7148a6287b43412d",
+  "active": "9ee3d2a81d84d95d",
   "lastOpenFiles": [
+    "Sesiones/Sesión 5.md",
+    "Sesiones/Sesión 2.md",
+    "Templates/Sesion.md",
+    "Sesiones/Sesión 1.md",
+    "Personajes/Ser Tanneth (Pearl Knight).md",
+    "Sesiones/Sesión 0.md",
+    "Sesiones/7455ion 2025-11-28.md",
+    "Sesiones/2025-11-27.md",
+    "2025-11-28.md",
+    "Templates/Plantilla de Sesión.md",
+    "Personajes/Ser Garnish de Blyth (Amber Knight).md",
+    "Templates",
+    "Mythic Bastionland.md",
+    "PNJs/Catfold, el Lavador.md",
+    "PNJs/Bohumir.md",
+    "Caballeros/The Chain Knight.md",
+    "Caballeros/The Dusk Knight.md",
+    "Caballeros/The Trail Knight.md",
+    "Caballeros/Ser Howel, The Bone Knight.md",
+    "Caballeros/Caballero de la Paloma.md",
     "Lugares/El Encierro de Maquenda.md",
     "Lugares/Castillo de Cosnice.md",
-    "Mythic Bastionland.md",
-    "Sesiones/Sesión 0.md",
-    "Sesiones/Sesión 2.md",
-    "Sesiones/Sesión 1.md",
     "GEMINI.md",
     "Mitos",
     "Mitos.md",
-    "Sesiones/Sesión 5.md",
     "Sesiones/Sesión 4.md",
     "Sesiones/Sesión 3.md",
-    "PNJs/Bohumir.md",
-    "Personajes/Ser Tanneth (Pearl Knight).md",
     "Personajes/Ser Morcant the Gloomy (Chain Knight).md",
-    "Personajes/Ser Ludovico, the Caring (Temple Knight).md",
-    "Bienvenido.md",
     "Sesiones",
-    "PNJs/Maese Ogham.md",
     "Lugares",
-    "Caballeros/Ser Howel, The Bone Knight.md",
-    "Caballeros/The Dusk Knight.md",
-    "Caballeros/The Bone Knight.md",
-    "Caballeros/The Trail Knight.md",
-    "Caballeros/Caballero de la Paloma.md",
-    "PNJs/Catfold, el Lavador.md",
-    "PNJs/La lente.md",
     "PNJs",
-    "Personajes/Ser Garnish de Blyth (Amber Knight).md",
     "Caballeros",
-    "Personajes",
-    "Caballeros/The Chain Knight.md"
+    "Personajes"
   ]
 }
