@@ -5,3 +5,7 @@
 *   **[[Sesion-4]]**:
     *   Usó su cadena mágica para que el grupo pudiera cruzar un foso en la cueva.
     *   Encontró el diario mágico de [[Bohumir]] en un trono hecho de libros y decidió quedárselo.
+*   **[[Sesion-5]]**:
+    *   Opinó que el [[Señor del Reino de los Objetos Perdidos]] debería ofrecer algo más a cambio del servicio que pedía.
+    *   Mostró interés por una capa de hojas de otoño, aunque no la pidió.
+    *   Creyó reconocer al [[Caballero de la Silla de Montar]] en el cadáver que transportaban las cigüeñas carroñeras.

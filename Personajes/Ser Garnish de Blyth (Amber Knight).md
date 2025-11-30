@@ -6,4 +6,4 @@
     *   Motivado por la promesa de tesoros, fue el primero en cruzar el puente de cristal que se resquebrajaba en la cueva.
     *   Ayudó a despejar un arco bloqueado y examinó los libros de un trono hecho de libros.
 *   **[[Sesion-5]]**:
-    *   Se enfrentó a la criatura de piel verde en "la tierra de los objetos perdidos", relacionándola con las desapariciones y negándose a servirle.
+    *   Se enfrentó al [[Señor del Reino de los Objetos Perdidos]], relacionándolo con las desapariciones previas y negándose inicialmente a servirle.
