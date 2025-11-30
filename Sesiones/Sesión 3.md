@@ -36,7 +36,7 @@ La figura se da la vuelta y al hacerlo puede ver que no es un casco, se trata de
 
 ### Notas: 
 
-1- Al día siguiente nos vamos a mover al hexágono  situado al NO de nuestra posición.
+1- Al día siguiente nos vamos a mover al hexágono situado al NO de nuestra posición.
 
 2- Tirada de comida hecha y superada
 

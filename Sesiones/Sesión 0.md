@@ -19,9 +19,9 @@ Al final del día, nos encontramos con un hombre vestido de cazador, un vasallo,
 
 La aurora es dorada, y el cielo está despejado. El terreno y la vegetación de esta parte de la ciénaga son más grisáceos, pero aún así la zona sigue estando llena de vida. También vemos rastros de animales, como jabalís, que van a zonas de abrevaderos.
 
-Al final del día, nos encontramos con un hombre andando por el páramos, parece un buhonero que afirma llamarse [[Bohumír]], nos reconoce como viajeros y no para de hablar de historias y cuentos. Es una persona bastante dicharachera, que hace que la jornada sea muy agradable y su forma de narrar es muy evocadora y cercana.
+Al final del día, nos encontramos con un hombre andando por el páramos, parece un buhonero que afirma llamarse [[Bohumir]], nos reconoce como viajeros y no para de hablar de historias y cuentos. Es una persona bastante dicharachera, que hace que la jornada sea muy agradable y su forma de narrar es muy evocadora y cercana.
 
-Nos dice que no ha visto a ningún sabueso, pero que hace unos días, dos o tres, más al norte, oyó una voz que lo llamaba y vió a un hombrecito que lo llamaba desde la linde del bosque, desconfió de él debido a que lo llamó directamente por su nombre. También nos informa de que el señor de la zona, vive en [[El Encierro de Maquenda]], la mansión fortificada C y se llama [[Maese Ogham]]. Nos cuenta que tiene mucha influencia en el reino, debido a que tiene un criadero de cuervos que son los animales que se usan para mantener la comunicación en el mismo, no es un señor en sí mismo, pero es muy influyente y respetado, aunque no es originario de este reino, es soltero y su familia no vive aquí. Siempre está abierto a escuchar información, cosas nuevas que le traigan nuevos conocimientos sobre el reino y sobre lo que está sucediendo. [[Ser Tanneth (Pearl Knight)]] le da una perla, de las que salen de su espada, y este a cambio le da una copa cuya parte superior gira sobre sí misma.
+Nos dice que no ha visto a ningún sabueso, pero que hace unos días, dos o tres, más al norte, oyó una voz que lo llamaba y vio a un hombrecito que lo llamaba desde la linde del bosque, desconfió de él debido a que lo llamó directamente por su nombre. También nos informa de que el señor de la zona, vive en [[El Encierro de Maquenda]], la mansión fortificada C y se llama [[Maese Ogham]]. Nos cuenta que tiene mucha influencia en el reino, debido a que tiene un criadero de cuervos que son los animales que se usan para mantener la comunicación en el mismo, no es un señor en sí mismo, pero es muy influyente y respetado, aunque no es originario de este reino, es soltero y su familia no vive aquí. Siempre está abierto a escuchar información, cosas nuevas que le traigan nuevos conocimientos sobre el reino y sobre lo que está sucediendo. [[Ser Tanneth (Pearl Knight)]] le da una perla, de las que salen de su espada, y este a cambio le da una copa cuya parte superior gira sobre sí misma.
 
 ----
 # Día 3
@@ -34,7 +34,7 @@ Según avanzamos oímos una voz que nos llama con angustia. Vemos a un hombre vi
 
 La Ruta de los cuatro primeros días
 
-![Ruta de los cuatro primeros días](assets/sesion-0-mapa.png)
+![Ruta de los cuatro primeros días](sesion-0-detalle-mapa.png)
 
 ----
 # Día 4

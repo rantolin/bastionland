@@ -14,9 +14,11 @@
 ## Día 7
 Al día siguiente nos levantamos al amanecer para ir hacia el noroeste, tal y como nos indicó [[La lente]]. El terreno, según avanzamos, va convirtiéndose en más árido y seco, dejando atrás la humedad de la zona pantanosa.
 
+![](assets/sesion-4-detalle-mapa.png)
+
 Se trata de una llanura bastante extensa y a lo lejos sólo vemos una única colina solitaria.
 
-![](assets/sesion-4-mapa-1.png)
+![](sesion-4-badlands.png)
 
 
 La colina parece ser del mismo material que el resto del terreno pero nos llama la atención debido a que no se ven más colinas y no hay nada cerca de ella. Al acercarnos podemos ver en una de sus laderas la entrada a una cueva o una gruta natural.
@@ -56,8 +58,7 @@ También nos parece oír una voz tenue que nos suena conocida, como si alguien e
 
 [[Ser Morcant the Gloomy (Chain Knight)]] examina el trono y encuentra un libro que se mueve. Parece ser una especie de diario de alguien que está contando de forma continua encuentros con gente, el diario parece pertenecer a [[Bohumir]]. Las historias que se cuentan en el diario nos suenan y una de ellas es la de su encuentro con nosotros hace unos días, momento en el que recordamos nuestro encuentro con el buhonero. Tras examinar el libro lo guarda y si [[Bohumir]] lo quiere recuperar que nos busque. [[Ser Garnish de Blyth (Amber Knight)]] examina algunos libros del trono para comprobar que son libros de verdad y después el grupo continúa por el pasillo.
 
-![](assets/sesion-4-mapa-2.jpeg)
-
+![](assets/sesion-4-troll.png)
 
 El pasillo nos lleva a una sala dónde podemos encontrar objetos de lo más variopinto, instrumentos de cocina, juguetes, cajas… 
 
@@ -65,6 +66,6 @@ En un lateral de la sala hay un trono de madera pintado de rojo con simbología 
 
 Sentado en el trono vemos a un ser con la piel verde, ojos brillantes y vestido con harapos. Cuando entramos en la sala, el ser levanta la vista de los objetos y se queda mirándonos y dice:
 
-> Bienvenidos a la tierra de los objetos perdidos. - Dice sonriendo. - Ahora que estáis aquí tendréis que hacerme un servicio.
+> "*Bienvenidos a la tierra de los objetos perdidos. - Dice sonriendo. - Ahora que estáis aquí tendréis que hacerme un servicio*."
     
 
