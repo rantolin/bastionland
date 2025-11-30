@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesiones/Sesion 3.md",
+                "file": "Mythic Bastionland.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesion 3"
+              "title": "Mythic Bastionland"
             }
           }
         ]
@@ -182,13 +182,29 @@
   },
   "active": "facfe38ad1ef9e01",
   "lastOpenFiles": [
-    "Sesiones/Sesion 2.md",
-    "Sesiones/Sesion 3.md",
-    "Sesiones/Sesion 5.md",
-    "Sesiones/Sesion 4.md",
+    "Sesiones/Sesion-5.md",
+    "Mythic Bastionland.md",
+    "Mythic Bastionland.md~",
+    "assets/sesion-0-mapa.png",
+    "REGLAS_ACTUALIZAR_CAMPAÑA.md",
+    "REGLAS_PARA_GEMINI.md~",
+    "Sesiones/Sesion-0.md",
+    "Tesoros/Tesoros Varios.md",
+    "Tesoros/Mano de Gloria.md",
+    "Tesoros",
+    "Mitos/Araña Gigante.md",
+    "Mitos/Cigueñas Carroñeras.md",
+    "Caballeros/Caballero de la Silla de Montar.md",
+    "Caballeros/Caballeros del Incendio de Svec.md",
+    "Lugares/Arco de Svec.md",
+    "Lugares/Reino de los Objetos Perdidos.md",
+    "PNJs/Señor del Reino de los Objetos Perdidos.md",
+    "REGLAS_PARA_GEMINI.md",
+    "Sesiones/Sesion-3.md",
+    "Sesiones/Sesion-2.md",
+    "Sesiones/Sesion-4.md",
     "assets/sesion-5-mapa.png",
     "assets/sesion-5-mapa.png.crdownload",
-    "Sesiones/Sesion 0.md",
     "assets/sesion-0-detalle-mapa.png",
     "assets/sesion-1-mapa.png",
     "assets/sesion-4-badlands.png",
@@ -199,7 +215,7 @@
     "assets/sesion-4-troll.png",
     "assets/sesion-4-troll.png.crdownload",
     "PNJs/Carolus.md",
-    "Sesiones/Sesion 1.md",
+    "Sesiones/Sesion-1.md",
     "PNJs/Klapil.md",
     "Bohumír.md",
     "PNJs/Bohumir.md",
@@ -208,22 +224,8 @@
     "Personajes/Ser Tanneth (Pearl Knight).md",
     "Sesiones/7455ion 2025-11-28.md",
     "Sesiones/2025-11-27.md",
-    "2025-11-28.md",
-    "Templates/Plantilla de Sesión.md",
-    "Personajes/Ser Garnish de Blyth (Amber Knight).md",
     "Templates",
-    "Mythic Bastionland.md",
-    "PNJs/Catfold, el Lavador.md",
-    "Caballeros/The Chain Knight.md",
-    "Caballeros/The Dusk Knight.md",
-    "Caballeros/The Trail Knight.md",
-    "Caballeros/Ser Howel, The Bone Knight.md",
-    "Caballeros/Caballero de la Paloma.md",
-    "Lugares/El Encierro de Maquenda.md",
     "Mitos",
-    "Sesiones",
-    "Lugares",
-    "PNJs",
-    "Caballeros"
+    "Sesiones"
   ]
 }
