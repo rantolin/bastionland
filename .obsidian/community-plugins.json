@@ -1,5 +1,7 @@
 [
   "dataview",
   "templater-obsidian",
-  "calendar"
+  "calendar",
+  "obsidian-style-settings",
+  "custom-font-loader"
 ]

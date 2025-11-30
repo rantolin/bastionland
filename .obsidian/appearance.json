@@ -1,1 +1,8 @@
-{}
+{
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "fuentes-codice"
+  ],
+  "baseFontSize": 20
+}

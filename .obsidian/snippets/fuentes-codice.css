@@ -1,0 +1,38 @@
+/* 
+ * Fragmento de CSS para cargar las fuentes del tema "El Códice del Bastión"
+ */
+
+/* 1. Definir la fuente para el cuerpo del texto */
+@font-face {
+  font-family: 'IM Fell English';
+  src: url('app://local/.obsidian/fonts/IMFellEnglish-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IM Fell English';
+  src: url('app://local/.obsidian/fonts/IMFellEnglish-Italic.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* 2. Definir la fuente para los títulos */
+@font-face {
+  font-family: 'Cinzel';
+  src: url('app://local/.obsidian/fonts/Cinzel-VariableFont_wght.ttf');
+}
+
+/* 3. Aplicar las fuentes a las variables del tema Minimal */
+body {
+    font-size: 18px; /* Aumenta el tamaño base de la fuente */
+    --font-text-override: 'IM Fell English';
+    --font-editor-override: 'IM Fell English';
+    
+    --h1-font: 'Cinzel';
+    --h2-font: 'Cinzel';
+    --h3-font: 'Cinzel';
+    --h4-font: 'Cinzel';
+    --h5-font: 'Cinzel';
+    --h6-font: 'Cinzel';
+}
