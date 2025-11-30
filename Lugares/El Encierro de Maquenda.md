@@ -5,7 +5,7 @@ La sala principal de recepción no es muy grande. Sus paredes están decoradas c
 # Residentes Notables
 *   **[[Maese Ogham]]**: Es el señor del Encierro. Un hombre bajito de voz monótona y con un acento que no es nativo de la región. Viste de forma austera, completamente de gris. Su poder e influencia en el reino provienen de su control sobre los cuervos mensajeros.
 # Visitas y Sucesos
-*   **Visita de la compañía ([[Sesión 0]] y [[Sesión 1]]):**
+*   **Visita de la compañía ([[Sesion-0]] y [[Sesion-1]]):**
     *   **Día 4:** La compañía de caballeros ([[Ser Morcant the Gloomy (Chain Knight)]], [[Ser Ludovico, the Caring (Temple Knight)]], [[Ser Garnish de Blyth (Amber Knight)]] y [[Ser Tanneth (Pearl Knight)]]) llegó al Encierro. Fueron recibidos por [[Maese Ogham]].
     *   Durante el encuentro, Maese Ogham les informó sobre la necesidad de ayuda en el reino y los guió hacia una vidente situada a dos días al norte.
     *   Ofreció hospitalidad a los caballeros, dándoles comida y un lugar para pasar la noche.

@@ -4,4 +4,4 @@
 *   Tiene vasallos importantes a su servicio, como el que gobierna la ciudad C.
 
 # Apariciones
-*   **[[Sesión 0]]**: Mencionado como el principal poder en la región.
+*   **[[Sesion-0]]**: Mencionado como el principal poder en la región.

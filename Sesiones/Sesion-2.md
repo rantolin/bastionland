@@ -1,6 +1,6 @@
 [[Mythic Bastionland|HOME]]
 
-<< [[Sesión 1|Anterior]] | [[Sesión 3|Siguiente]] >>
+<< [[Sesion-1|Anterior]] | [[Sesion-3|Siguiente]] >>
 ## Asistentes
 * [[Ser Morcant the Gloomy (Chain Knight)]] [Miguel]
 * [[Ser Garnish de Blyth (Amber Knight)]] [Sku]

@@ -1,9 +1,9 @@
 # Acciones Notables
-*   **[[Sesión 3]]**:
+*   **[[Sesion-3]]**:
     *   Intentó sin éxito reconocer la canción de [[Catfold, el Lavador]].
     *   Fue el primero en internarse en la explanada de las estatuas y en hablar con [[La lente]], prometiéndole futuros objetos curiosos.
-*   **[[Sesión 4]]**:
+*   **[[Sesion-4]]**:
     *   Motivado por la promesa de tesoros, fue el primero en cruzar el puente de cristal que se resquebrajaba en la cueva.
     *   Ayudó a despejar un arco bloqueado y examinó los libros de un trono hecho de libros.
-*   **[[Sesión 5]]**:
+*   **[[Sesion-5]]**:
     *   Se enfrentó a la criatura de piel verde en "la tierra de los objetos perdidos", relacionándola con las desapariciones y negándose a servirle.

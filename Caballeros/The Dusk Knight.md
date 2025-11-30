@@ -3,4 +3,4 @@
 *   Reside en la ciudad D.
 
 # Apariciones
-*   **[[Sesión 0]]**: Mencionado como uno de los señores locales.
+*   **[[Sesion-0]]**: Mencionado como uno de los señores locales.

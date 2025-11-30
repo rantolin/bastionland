@@ -1,6 +1,6 @@
 [[Mythic Bastionland|HOME]]
 
-<< [[Sesión 0|Anterior]] | [[Sesión 2|Siguiente]] >>
+<< [[Sesion-0|Anterior]] | [[Sesion-2|Siguiente]] >>
 
 ## Asistentes
 * [[Ser Morcant the Gloomy (Chain Knight)]] [Miguel]

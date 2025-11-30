@@ -1,6 +1,6 @@
 [[Mythic Bastionland|HOME]]
 
-<< [[Sesión 3|Anterior]] | [[Sesión 5|Siguiente]] >>
+<< [[Sesion-3|Anterior]] | [[Sesion-5|Siguiente]] >>
 ## Asistentes
 * [[Ser Morcant the Gloomy (Chain Knight)]] [Miguel]
 * [[Ser Tanneth (Pearl Knight)]] [Sirvernt]

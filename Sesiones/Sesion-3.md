@@ -1,6 +1,6 @@
 [[Mythic Bastionland|HOME]]
 
-<< [[Sesión 2|Anterior]] | [[Sesión 4|Siguiente]] >>
+<< [[Sesion-2|Anterior]] | [[Sesion-4|Siguiente]] >>
 ## Asistentes
 * [[Ser Morcant the Gloomy (Chain Knight)]] [Miguel]
 * [[Ser Ludovico, the Caring (Temple Knight)]] [Rober]

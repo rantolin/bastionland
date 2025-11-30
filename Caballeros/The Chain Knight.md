@@ -4,4 +4,4 @@
 *   **[[Maese Ogham]]** conoció al anterior portador del título de "The Chain Knight".
 
 # Apariciones
-*   **[[Sesión 1]]**: Mencionado por [[Maese Ogham]] durante su encuentro con la compañía en [[El Encierro de Maquenda]].
+*   **[[Sesion-1]]**: Mencionado por [[Maese Ogham]] durante su encuentro con la compañía en [[El Encierro de Maquenda]].
