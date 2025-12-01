@@ -21,6 +21,13 @@ FROM "Caballeros"
 SORT file.name ASC
 ```
 ---
+## Crónicas de la Campaña
+```dataview
+LIST
+FROM "Sesiones"
+SORT file.name ASC
+```
+---
 ## Atlas del Territorio
 Se entra al territorio por la esquina del Sur Oeste. Cruzar un hexágono cuesta aproximadamente un día.
 
@@ -36,13 +43,6 @@ Se entra al territorio por la esquina del Sur Oeste. Cruzar un hexágono cuesta 
 
 Al entrar en un hexágono se va a hacer una tirada (DJ) para saber lo que nos encontramos, pueden ser pistas sobre mitos o encontramos un Landmark (que pueden ser asentamientos, un monumento, un peligro, una maldición, ruinas, la torre de una vidente o un espacio sin nada reseñable) que si no está ya descrito se genera al azar.
 
----
-## Crónicas de la Campaña
-```dataview
-LIST
-FROM "Sesiones"
-SORT file.name ASC
-```
 ---
 ## Apéndices y Reglas
 ### Información sobre el mundo
