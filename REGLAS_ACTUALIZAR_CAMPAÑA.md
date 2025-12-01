@@ -84,6 +84,23 @@ Si en `Sesion-6.md`, Ser Morcant descifra un acertijo y derrota a un enemigo imp
         *   Derrotó en combate singular al capitán de los bandidos.
     ```
 
+### 2.2. Enlazado de Menciones de Personajes
+
+**Objetivo:** Asegurar que todas las menciones a personajes existentes en una nota de sesión estén correctamente enlazadas a su ficha de personaje.
+
+**Procedimiento:**
+
+1.  En `Sesion-N.md`, leer el texto y buscar nombres o apodos de los personajes jugadores que no estén dentro de un enlace `[[...]]`. (p. ej., el texto plano "Ser Morcant").
+2.  Conocer la lista de Personajes Jugarores y sus archivos correspondientes (p. ej., `Ser Morcant the Gloomy (Chain Knight).md`).
+3.  Reemplazar el texto plano con el enlace correcto, usando un alias si es necesario para mantener la fluidez del texto.
+
+**Ejemplo:**
+Si en `Sesion-7.md` se escribe la frase: "Al día siguiente, Ser Morcant decidió explorar el bosque."
+
+*   **Archivo a modificar:** `Sesion-7.md`
+*   **Texto original:** `...Ser Morcant decidió explorar...`
+*   **Texto modificado:** `...[[Ser Morcant the Gloomy (Chain Knight)|Ser Morcant]] decidió explorar...`
+
 ---
 
 ## 3. Reglas para `@Lugares`
