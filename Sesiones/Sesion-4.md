@@ -13,16 +13,12 @@
 ---
 ## Día 7
 Al día siguiente nos levantamos al amanecer para ir hacia el noroeste, tal y como nos indicó [[La lente]]. El terreno, según avanzamos, va convirtiéndose en más árido y seco, dejando atrás la humedad de la zona pantanosa.
-
 ![](assets/sesion-4-detalle-mapa.png)
 
 Se trata de una llanura bastante extensa y a lo lejos sólo vemos una única colina solitaria.
-
 ![](sesion-4-badlands.png)
 
-
 La colina parece ser del mismo material que el resto del terreno pero nos llama la atención debido a que no se ven más colinas y no hay nada cerca de ella. Al acercarnos podemos ver en una de sus laderas la entrada a una cueva o una gruta natural.
-
 
 A pesar del terreno árido, no es una zona muy calurosa.
 
