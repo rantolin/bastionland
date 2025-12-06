@@ -1,0 +1,22 @@
+name = "actualizar-campana"
+description = "Actualiza la campaña de Mythic Bastionland con una sesión dada."
+
+[[parameters]]
+name = "session_name"
+description = "El nombre de la sesión (ej. 'Sesion-N')"
+type = "string"
+required = true
+
+prompt = """Por favor, actualiza la campaña de Mythic Bastionland con la sesión '{{args.session_name}}'.
+Utiliza las reglas del archivo REGLAS_ACTUALIZAR_CAMPAÑA.md para realizar las actualizaciones necesarias en el vault de Obsidian.
+
+Workflow:
+1. Lee el archivo 'Sesiones/{{args.session_name}}.md'.
+2. Identifica menciones de entidades (PNJs, Personajes, Lugares, Caballeros, Mitos, Tesoros).
+3. Para cada entidad:
+    a. Si es un PNJ, Lugar, Caballero o Tesoro existente: actualiza el archivo correspondiente añadiendo una referencia a la sesión.
+    b. Si es una nueva entidad de esas categorías: crea el archivo usando la plantilla y reemplaza la mención en el archivo de sesión con un enlace.
+    c. Si es un Personaje (PC): busca menciones no enlazadas y conviértelas en enlaces; si hay acciones notables, considéralas.
+    d. Si es un Mito: actualiza el contador de augurios y añade referencias.
+4. Asegúrate de preguntar si una entidad encontrada en texto plano es una nueva entidad y de qué categoría antes de crear un archivo.
+"""
