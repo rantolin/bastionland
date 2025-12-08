@@ -18,6 +18,7 @@ Este vault contiene toda la información de la campaña de rol de Mythic Bastion
 *   [ ] Organizar las notas existentes.
 *   [ ] Crear nuevas entradas para la próxima sesión.
 *   [ ] Revisar la coherencia del lore.
+*   [ ] Leer y aplicar las 'Reglas de la Campaña' en `REGLAS_DE_LA_CAMPAÑA.md`.
 
 ## Próximos Pasos
 

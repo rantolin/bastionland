@@ -306,4 +306,3 @@ Si en `Sesion-8.md` la compañía encuentra la Mano de Gloria y Ser Garnish la g
     # Ubicación Actual
     *   En posesión de [[Ser Garnish de Blyth (Amber Knight)]].
     ```
-
