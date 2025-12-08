@@ -31,7 +31,7 @@ SORT file.name ASC
 ## Atlas del Territorio
 Se entra al territorio por la esquina del Sur Oeste. Cruzar un hexágono cuesta aproximadamente un día.
 
-![](./assets/sesion-0-mapa.png)
+![](sesion-0-mapa.png)
 
 ### Leyenda del Mapa
 * Los hexágonos **morados** son ciénagas.

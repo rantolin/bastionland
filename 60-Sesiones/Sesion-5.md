@@ -44,7 +44,7 @@ Hacia el atardecer nos llama la atención una bandada de [[Cigueñas Carroñeras
 Al día siguiente intentamos evitar el río y dirigirnos hacia el noreste, pero las *badlands* en esta zona son de tipo cañón con unas piedras afiladas como cuchillos, por lo que es imposible atravesar esa zona sin riesgo.
 
 Ante este terreno impasable, decidimos continuar hacia el este, hacia el río.
-![](assets/sesion-5-mapa.png)
+![](sesion-5-mapa.png)
 
 ## Notas:
 * Hemos avanzado hacia el este, pero aún no se hizo la tirada de entrada a la casilla.

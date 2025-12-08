@@ -13,7 +13,7 @@
 ---
 ## Día 7
 Al día siguiente nos levantamos al amanecer para ir hacia el noroeste, tal y como nos indicó [[La lente]]. El terreno, según avanzamos, va convirtiéndose en más árido y seco, dejando atrás la humedad de la zona pantanosa.
-![](assets/sesion-4-detalle-mapa.png)
+![](sesion-4-detalle-mapa.png)
 
 Se trata de una llanura bastante extensa y a lo lejos sólo vemos una única colina solitaria.
 ![](sesion-4-badlands.png)
@@ -54,7 +54,7 @@ También nos parece oír una voz tenue que nos suena conocida, como si alguien e
 
 [[Ser Morcant the Gloomy (Chain Knight)]] examina el trono y encuentra un libro que se mueve. Parece ser una especie de diario de alguien que está contando de forma continua encuentros con gente, el diario parece pertenecer a [[Bohumir]]. Las historias que se cuentan en el diario nos suenan y una de ellas es la de su encuentro con nosotros hace unos días, momento en el que recordamos nuestro encuentro con el buhonero. Tras examinar el libro lo guarda y si [[Bohumir]] lo quiere recuperar que nos busque. [[Ser Garnish de Blyth (Amber Knight)]] examina algunos libros del trono para comprobar que son libros de verdad y después el grupo continúa por el pasillo.
 
-![](assets/sesion-4-troll.png)
+![](sesion-4-troll.png)
 
 El pasillo nos lleva a una sala dónde podemos encontrar objetos de lo más variopinto, instrumentos de cocina, juguetes, cajas… 
 

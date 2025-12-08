@@ -18,7 +18,7 @@ Nos informa que dos días al norte hay un santuario de una vidente, dónde se no
 ## Día 5
 
 Al día siguiente, cuando nos preparamos para partir vamos a despedirnos de [[Maese Ogham]], pero nos informan de que partió antes del amanecer. Dejó órdenes de que nos prepararan comida y bebida para el viaje.
-![](assets/sesion-1-mapa.png)
+![](sesion-1-mapa.png)
 
 (Raciones de viaje: d12)
 
