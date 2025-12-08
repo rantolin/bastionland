@@ -1,3 +1,7 @@
+---
+location: [100, 100]
+---
+
 # Acciones Notables
 *   **[[Sesion-3]]**:
     *   Intentó sin éxito reconocer la canción de [[Catfold, el Lavador]].
